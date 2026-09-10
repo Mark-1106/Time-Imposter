@@ -1,0 +1,9 @@
+{
+  "appId": "com.timeimposter.game",
+  "appName": "Time Imposter",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
