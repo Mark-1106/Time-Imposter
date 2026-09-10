@@ -1,5 +1,5 @@
 {
-  "appId": "com.timeimposter.game",
+  "appId": "com.markstudio.timeimposter",
   "appName": "Time Imposter",
   "webDir": "www",
   "bundledWebRuntime": false,
