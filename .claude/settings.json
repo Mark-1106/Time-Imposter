@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "my-ai-team": {
+      "source": { "source": "github", "repo": "mark-1106/my-ai-team" }
+    }
+  },
+  "enabledPlugins": {
+    "my-ai-team@my-ai-team": true
+  }
+}
