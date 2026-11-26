@@ -1,14 +1,27 @@
 {
   "extraKnownMarketplaces": {
     "my-ai-team": {
-      "source": { "source": "github", "repo": "mark-1106/my-ai-team" }
+      "source": {
+        "source": "github",
+        "repo": "mark-1106/my-ai-team"
+      }
     },
     "ponytail": {
-      "source": { "source": "github", "repo": "DietrichGebert/ponytail" }
+      "source": {
+        "source": "github",
+        "repo": "DietrichGebert/ponytail"
+      }
+    },
+    "claude-plugins-official": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official"
+      }
     }
   },
   "enabledPlugins": {
     "my-ai-team@my-ai-team": true,
-    "ponytail@ponytail": true
+    "ponytail@ponytail": true,
+    "frontend-design@claude-plugins-official": true
   }
 }
