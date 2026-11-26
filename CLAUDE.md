@@ -23,5 +23,6 @@
 ## 공통 규칙
 - 사장님은 코딩 초보예요. **쉬운 한국어**로, 결론 → 이유 → 사장님이 할 일 순서로 보고해요.
 - **토큰 절약**: 큰 파일·폴더는 통째로 읽지 않아요. `grep`, `head`, 작은 스크립트로 필요한 부분만 봐요. 간단한 일은 부서원을 부르지 않고 바로 처리해요.
-- 부서원은 `my-ai-team` 플러그인(자동 설치)에 있어요: idea-maker, researcher, reviewer, tester, marketer, sns-writer, sales-writer, store-writer, game-designer, game-developer.
+- 부서원은 `my-ai-team` 플러그인(자동 설치)에 있어요: idea-maker, researcher, reviewer, tester, marketer, sns-writer, sales-writer, store-writer, game-designer, game-developer, legal-checker(한국 법 점검).
+- 최신 개발 문서가 필요하면 context7을 써요 (검색에 우리 코드는 넣지 않아요).
 - 작업이 끝나면 이 파일의 **진행 상황**을 짧게 고치고, My-project 작업일지에도 기록해요.
