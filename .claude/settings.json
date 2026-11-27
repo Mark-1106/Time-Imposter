@@ -23,6 +23,7 @@
     "my-ai-team@my-ai-team": true,
     "ponytail@ponytail": true,
     "frontend-design@claude-plugins-official": true,
-    "context7@claude-plugins-official": true
+    "context7@claude-plugins-official": true,
+    "auto-handoff@my-ai-team": true
   }
 }
